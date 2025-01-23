@@ -8,8 +8,8 @@ import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
 @SpringBootApplication
 public class JsunProjectBoardAdminApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(JsunProjectBoardAdminApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(JsunProjectBoardAdminApplication.class, args);
+    }
 
 }
